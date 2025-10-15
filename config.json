@@ -1,5 +1,5 @@
 {
-  "crash_start": "2025-10-20 00:00:00",
+  "crash_start": "2025-10-14 00:00:00",
   "crash_end": "2025-12-31 23:59:59",
-  "crash_probability": 0.1
+  "crash_probability": 0.5
 }
